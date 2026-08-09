@@ -1,3 +1,4 @@
+![Banner](./1_banner_readme.svg)
 # Agente de Documentos da Corretora
 
 Extrai automaticamente Nome e Data de Nascimento de apólices em PDF,
